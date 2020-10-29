@@ -1,0 +1,4 @@
+﻿  lab5.3.cpp
+C:\Users\Chrep\Desktop\Львівська політехніка\Алгоритмізація та програмування\Лабораторна робота 5.3\VisualStudio\lab5.3\lab5.3\lab5.3.cpp(15,12): warning C4101: 'g': unreferenced local variable
+C:\Users\Chrep\Desktop\Львівська політехніка\Алгоритмізація та програмування\Лабораторна робота 5.3\VisualStudio\lab5.3\lab5.3\lab5.3.cpp(61): warning C4715: 'S': not all control paths return a value
+  lab5.3.vcxproj -> C:\Users\Chrep\Desktop\Львівська політехніка\Алгоритмізація та програмування\Лабораторна робота 5.3\VisualStudio\lab5.3\UnitTest5.3\Debug\lab5.3.exe

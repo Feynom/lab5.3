@@ -1,0 +1,2 @@
+C:\Users\Chrep\Desktop\Львівська політехніка\Алгоритмізація та програмування\Лабораторна робота 5.3\VisualStudio\lab5.3\UnitTest5.3\Debug\UnitTest5.3.dll
+C:\Users\Chrep\Desktop\Львівська політехніка\Алгоритмізація та програмування\Лабораторна робота 5.3\VisualStudio\lab5.3\UnitTest5.3\Debug\UnitTest5.3.pdb
